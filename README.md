@@ -19,4 +19,4 @@
  *비용적인 면과 디자인적 측면에서 확장이 불가하여 보일러 제어에서 중단*
 
 # Ⅴ. 구현 동영상
-* Youtube Link = https://youtu.be/xCLAYZU7ppc
+* Youtube Link : https://youtu.be/xCLAYZU7ppc
